@@ -1,0 +1,43 @@
+# Ignore system and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.vscode/
+.idea/
+Thumbs.db
+
+# Ignore data files that are large or raw
+*.csv
+*.xlsx
+*.xls
+*.ods
+
+# Ignore Tableau and PowerPoint files
+*.twb
+*.twbx
+*.pptx
+*.ppt
+
+# Ignore reports and PDFs (you can track final ones manually if needed)
+*.pdf
+
+# Ignore environment files
+.env
+venv/
+env/
+.python-version
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore git folder
+.git/
+
+# Allow important cleaned dataset
+!cleaned_aviation_data.xlsx
+
+# Allow essential scripts and notebooks
+!aviation_data_functions.py
+!aviation_safety_analysis.ipynb
