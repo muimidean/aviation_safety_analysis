@@ -46,8 +46,10 @@ Some columns (e.g., `Latitude`, `Longitude`, `Aircraft.Category`, `Engine.Type`)
 ---
 
 ## Conclusion
-Accidents mainly occur during **critical flight phases**, highlighting the need for enhanced **pilot training, automation**, and **maintenance practices**.  
-While clear weather sees the most incidents, **poor weather increases fatality severity**, emphasizing the importance of **weather monitoring systems**.
+The analysis shows clear safety differences across aircraft models and manufacturers. The safest aircraft include the Piper PA-28R-201T, Aero Commander 690, Grumman American AA-1A, Piper PA-60, and Cessna 401B.
+Most accidents occurred during the landing and takeoff phases, with fatal injuries peaking in the late 1990s but steadily declining due to improved safety policies.
+Cessna and Piper recorded the most accidents, largely because of their widespread general aviation use, while Boeing, Beech, and Bell showed lower frequencies, reflecting stronger safety standards.
+Ongoing maintenance, monitoring, and data-driven safety measures remain key to minimizing future aviation accidents.
 
 ---
 
