@@ -54,6 +54,8 @@ Ongoing maintenance, monitoring, and data-driven safety measures remain key to m
 ---
 
 ## Next Steps
-- Build **predictive models** for accident likelihood  
-- Develop a **safety risk index** for aircraft models  
-- Use **geospatial analysis** to identify regional accident hotspots  
+- Build predictive models to estimate accident risk by aircraft type and flight phase.
+- Create a safety index comparing aircraft and manufacturers.
+- Perform geospatial analysis to identify accident hotspots.
+- Analyze maintenance and aircraft age effects on safety.
+- Strengthen pilot training for landing and takeoff phases.
