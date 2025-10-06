@@ -7,7 +7,7 @@
 
 ## Overview
 This project analyzes **global aviation accident data (1962–2023)** from the **National Transportation Safety Board (NTSB)** to identify patterns and risk factors affecting flight safety.  
-It focuses on **aircraft type, model, weather**, and **flight phase** to understand when and why accidents occur.
+It focuses on aircraft type, model, weather, and flight phase to understand when and why accidents occur.
 
 ---
 
